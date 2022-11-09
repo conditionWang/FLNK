@@ -25,6 +25,7 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + Addressing Client Drift in Federated Continual Learning with Adaptive Optimization (Preprint 2022) [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4188586)
 + Towards Federated Learning on Time-Evolving Heterogeneous Data (Arxiv 2022) [[paper]](https://arxiv.org/abs/2112.13246)
 + Continual Horizontal Federated Learning for Heterogeneous Data (Arxiv 2022) [[paper]](https://arxiv.org/abs/2203.02108)
++ Better Generative Replay for Continual Federated Learning (ICLR 2023 under review) [[paper]](https://openreview.net/forum?id=cRxYWKiTan)
 
 #### Natural Language Processing
 + **Federated Continual Learning for Text Classification via Selective Inter-client Transfer (EMNLP Findings 2022)** [[paper]](https://arxiv.org/abs/2210.06101)
@@ -38,6 +39,7 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + Attention-based federated incremental learning for traffic classification in the Internet of Things (Computer Communications 2022) [[paper]](https://www.sciencedirect.com/science/article/pii/S0140366422000123?casa_token=lB1i8C4Mud0AAAAA:LJNPcUuOpesrSeQsD6BHlwVs4orzTgLmuxXbTDBes3HFdFat1w78hfyrWUVYiJK4QpExu-wFZZN2)
 + Federated Learning and catastrophic forgetting in pervasive computing: demonstration in HAR domain (IEEE Workshop 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9767246)
 + Federated Continual Learning through distillation in pervasive computing (SmartComp 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9821057?casa_token=qAwx-o_ga4gAAAAA:MFqUbWBzqkfJ79QWU5yMvPmvFoG_T-pzAVdPEABcEiciymal0kAy5Ie1BCowtHyELCCNOtGbSyk)
++ DILoCC: An approach for Distributed Incremental Learning across the Computing Continuum (SmartComp 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9556258?casa_token=uIv0gtgLWhEAAAAA:j592VhM8vYz0R__phIyBvnx5YQEtwrPAJiiZ16qu9nu2wu3jYr8xIfodzm5OpUn2NwwaPbYx8co)
 
 #### Security Relevant
 + GFCL: A GRU-based Federated Continual Learning Framework against Data Poisoning Attacks in IoV (Arxiv 2022) [[paper]](https://arxiv.org/abs/2204.11010)
@@ -48,6 +50,10 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing (Arxiv 2022) [[paper]](https://arxiv.org/abs/2210.15051)
 + Continual Learning of Dynamical Systems with Competitive Federated Reservoir Computing (Arxiv 2022) [[paper]](https://arxiv.org/abs/2206.13336)
 + Towards Lifelong Federated Learning in Autonomous Mobile Robots with Continuous Sim-to-Real Transfer (Arxiv 2022) [[paper]](https://arxiv.org/abs/2205.15496)
+
+## Datasets
+
+## Tools
 
 
 
