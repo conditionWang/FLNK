@@ -27,7 +27,7 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + Continual Horizontal Federated Learning for Heterogeneous Data (Arxiv 2022) [[paper]](https://arxiv.org/abs/2203.02108)
 + Better Generative Replay for Continual Federated Learning (ICLR 2023 under review) [[paper]](https://openreview.net/forum?id=cRxYWKiTan)
 + Federated Learning for Data Streams (Arxiv 2023) [[paper]](https://arxiv.org/abs/2301.01542)
-+ FedKNOW: Federated Continual Learning with Signature Task Knowledge Integration at Edge (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2212.01738.pdf)
++ FedKNOW: Federated Continual Learning with Signature Task Knowledge Integration at Edge (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2212.01738.pdf) [[code]](https://github.com/LINC-BIT/FedKNOW)
 
 
 #### Natural Language Processing
