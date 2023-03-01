@@ -1,13 +1,12 @@
 # Dynamic Federated Learning
-This is all you need for a brand new but interesting topic -- dynamic federated learning (DFL), including research papers, datasets, tools, and you name it. Standard federated learning usually assumes that the data distribution, model structure, and participating clients of the overall framework are fixed to unchanged over time. But DFL explores research problems of training better models (global or personalized) when the aforementioned important elements of FL are dynamically changing. Relevant topics include heterogeneous federated learning, personalized federated learning, incremental learning, continual learning, domain adaptation, domain generalization and self-supervised learning. We believe dynamic federated learning will be a practical mechanism that can really enable federated learning to be applied in the real world.
+This is all you need for a brand new but interesting topic -- dynamic federated learning (DFL), including research papers, datasets, tools, and you name it. Standard federated learning usually assumes that the data distribution, model structure, and participating clients of the overall framework are fixed to unchanged over time. But DFL explores research problems of training better models (global or personalized) when the aforementioned important elements of FL are dynamically changing. Relevant topics include heterogeneous federated learning, personalized federated learning, incremental learning, continual learning, domain adaptation and out of distribution generalization. We believe dynamic federated learning will be a practical mechanism that can really enable federated learning to be applied in the real world.
 
-## Research Papers
-
-### Survey
+## Survey
 + Non-IID data and Continual Learning processes in Federated Learning: A long road ahead [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253522000884)
 
-### Papers
-#### Computer Vision
+## Papers
+### Computer Vision
+#### Pure Classification
 + Partitioned Variational Inference: A unified framework encompassing federated and continual learning (Arxiv 2018) [[paper]](https://arxiv.org/abs/1811.11206)
 + Federated and continual learning for classification tasks in a society of devices (Arxiv 2020) [[paper]](https://arxiv.org/abs/2006.07129)
 + **Federated Continual Learning with Weighted Inter-client Transfer (ICML 2021)** [[paper]](https://proceedings.mlr.press/v139/yoon21b.html?ref=https://githubhelp.com) [[code]](https://github.com/wyjeong/FedWeIT)
@@ -25,15 +24,26 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + Addressing Client Drift in Federated Continual Learning with Adaptive Optimization (Preprint 2022) [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4188586)
 + Towards Federated Learning on Time-Evolving Heterogeneous Data (Arxiv 2022) [[paper]](https://arxiv.org/abs/2112.13246)
 + Continual Horizontal Federated Learning for Heterogeneous Data (Arxiv 2022) [[paper]](https://arxiv.org/abs/2203.02108)
-+ Better Generative Replay for Continual Federated Learning (ICLR 2023 under review) [[paper]](https://openreview.net/forum?id=cRxYWKiTan)
++ **Better Generative Replay for Continual Federated Learning (ICLR 2023)** [[paper]](https://openreview.net/forum?id=cRxYWKiTan)
 + Federated Learning for Data Streams (Arxiv 2023) [[paper]](https://arxiv.org/abs/2301.01542)
 + FedKNOW: Federated Continual Learning with Signature Task Knowledge Integration at Edge (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2212.01738.pdf)
++ No One Left Behind: Real-World Federated Class-Incremental Learning (Arxiv 2023) [[paper]](https://arxiv.org/abs/2302.00903) [[code]](https://github.com/JiahuaDong/LGA)
++ Federated probability memory recall for federated continual learning (Info Science 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025523001883?casa_token=Srn81YlRjF4AAAAA:Jw28ekpauxEeC4-kxJrzhRPpHV0dTJeInJ-s3mRxOi77YbXShvkg43119RHHjnO2qQ9wOSlRVyUx)
+
+#### Advanced CV Tasks (object detection, semantic segmentation)
++ **Federated Incremental Semantic Segmentation (CVPR 2023)** [paper] [[code]](https://github.com/JiahuaDong/FISS)
+
+#### Out-of-Distribution Learning
++ Uncertainty-Aware Aggregation for Federated Open Set Domain Adaptation (TNNLS 2022) [[paper]](https://ieeexplore.ieee.org/document/9931728)
++ **Federated Domain Generalization with Generalization Adjustment (CVPR 2023)**
++ PerAda: Parameter-Efficient and Generalizable Federated Learning Personalization with Guarantees (Arxiv 2023) [[paper]](https://arxiv.org/abs/2302.06637)
 
 
-#### Natural Language Processing
+
+### Natural Language Processing
 + **Federated Continual Learning for Text Classification via Selective Inter-client Transfer (EMNLP Findings 2022)** [[paper]](https://arxiv.org/abs/2210.06101)
 
-#### Audio and IoT
+### Audio and IoT
 + A distillation-based approach integrating continual learning and federated learning for pervasive services (Arxiv 2021) [[paper]](https://arxiv.org/abs/2109.04197)
 + **FedSpeech: Federated Text-to-Speech with Continual Learning (IJCAI 2021)** [[paper]](https://arxiv.org/abs/2110.07216)
 + Spatial-Temporal Federated Learning for Lifelong Person Re-identification on Distributed Edges (Arxiv 2022) [[paper]](https://arxiv.org/abs/2207.11759)
@@ -45,19 +55,16 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + DILoCC: An approach for Distributed Incremental Learning across the Computing Continuum (SmartComp 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9556258?casa_token=uIv0gtgLWhEAAAAA:j592VhM8vYz0R__phIyBvnx5YQEtwrPAJiiZ16qu9nu2wu3jYr8xIfodzm5OpUn2NwwaPbYx8co)
 + **Cross-FCL: Toward a Cross-edge Federated Continual Learning Framework in Mobile Edge Computing Systems (TMC 2022)** [[paper]](https://ieeexplore.ieee.org/abstract/document/9960821?casa_token=1Ovr4510alIAAAAA:53TSbfLNHX8M5eh-2p65eXO2F7vbB4rAXIFAudCG92EAkPlFhecA5e0emL2r0gUBb5tvT9ePpoE)
 
-#### Security Relevant
+### Security Relevant
 + GFCL: A GRU-based Federated Continual Learning Framework against Data Poisoning Attacks in IoV (Arxiv 2022) [[paper]](https://arxiv.org/abs/2204.11010)
 + Towards a Defense against Backdoor Attacks in Continual Federated Learning (Arxiv 2022) [[paper]](https://arxiv.org/abs/2205.11736)
 + Federated Continual Learning with Differentially Private Data Sharing (NeurIPS 2022 Workshop) [[paper]](https://openreview.net/forum?id=b7vu9ukdpdL)
 
-#### Other Topics
+### Other Topics
 + Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing (Arxiv 2022) [[paper]](https://arxiv.org/abs/2210.15051)
 + Continual Learning of Dynamical Systems with Competitive Federated Reservoir Computing (Arxiv 2022) [[paper]](https://arxiv.org/abs/2206.13336)
 + Towards Lifelong Federated Learning in Autonomous Mobile Robots with Continuous Sim-to-Real Transfer (Arxiv 2022) [[paper]](https://arxiv.org/abs/2205.15496)
 
-## Datasets
-
-## Tools
 
 
 
