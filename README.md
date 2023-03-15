@@ -29,12 +29,17 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + FedKNOW: Federated Continual Learning with Signature Task Knowledge Integration at Edge (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2212.01738.pdf)
 + No One Left Behind: Real-World Federated Class-Incremental Learning (Arxiv 2023) [[paper]](https://arxiv.org/abs/2302.00903) [[code]](https://github.com/JiahuaDong/LGA)
 + Federated probability memory recall for federated continual learning (Info Science 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025523001883?casa_token=Srn81YlRjF4AAAAA:Jw28ekpauxEeC4-kxJrzhRPpHV0dTJeInJ-s3mRxOi77YbXShvkg43119RHHjnO2qQ9wOSlRVyUx)
++ GradMA: A Gradient-Memory-based Accelerated Federated Learning with Alleviated Catastrophic Forgetting (Arxiv 2023) [[paper]](https://arxiv.org/abs/2302.14307)
++ Addressing Catastrophic Forgetting in Federated Class-Continual Learning (Arxiv 2023) [[paper]](https://arxiv.org/abs/2303.06937)
 
 #### Advanced CV Tasks (object detection, semantic segmentation)
 + **Federated Incremental Semantic Segmentation (CVPR 2023)** [paper] [[code]](https://github.com/JiahuaDong/FISS)
 
 #### Out-of-Distribution Learning
++ FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space (CVPR 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.html) [[code]](https://github.com/liuquande/FedDG-ELCFS)
 + Uncertainty-Aware Aggregation for Federated Open Set Domain Adaptation (TNNLS 2022) [[paper]](https://ieeexplore.ieee.org/document/9931728)
++ FedSR: A Simple and Effective Domain Generalization Method for Federated Learning (NeurIPS 2022) [[paper]](https://openreview.net/forum?id=mrt90D00aQX) [[code]](https://github.com/atuannguyen/FedSR)
++ Federated Domain Generalization for Image Recognition via Cross-Client Style Transfer (WACV 2023) [[paper]](https://openaccess.thecvf.com/content/WACV2023/html/Chen_Federated_Domain_Generalization_for_Image_Recognition_via_Cross-Client_Style_Transfer_WACV_2023_paper.html) [[code]](https://github.com/JeremyCJM/CCST)
 + **Federated Domain Generalization with Generalization Adjustment (CVPR 2023)**
 + PerAda: Parameter-Efficient and Generalizable Federated Learning Personalization with Guarantees (Arxiv 2023) [[paper]](https://arxiv.org/abs/2302.06637)
 
