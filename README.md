@@ -34,7 +34,6 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + GradMA: A Gradient-Memory-based Accelerated Federated Learning with Alleviated Catastrophic Forgetting (Arxiv 2023) [[paper]](https://arxiv.org/abs/2302.14307)
 + Addressing Catastrophic Forgetting in Federated Class-Continual Learning (Arxiv 2023) [[paper]](https://arxiv.org/abs/2303.06937)
 + **Federated Learning under Distributed Concept Drift (AISTATS 2023)** [[paper]](https://arxiv.org/pdf/2206.00799.pdf)
-+ 
 
 #### Advanced CV Tasks (object detection, semantic segmentation)
 + **FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space (CVPR 2021)** [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.html) [[code]](https://github.com/liuquande/FedDG-ELCFS)
