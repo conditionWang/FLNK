@@ -26,6 +26,7 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + Addressing Client Drift in Federated Continual Learning with Adaptive Optimization (Preprint 2022) [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4188586)
 + Towards Federated Learning on Time-Evolving Heterogeneous Data (Arxiv 2022) [[paper]](https://arxiv.org/abs/2112.13246)
 + Continual Horizontal Federated Learning for Heterogeneous Data (Arxiv 2022) [[paper]](https://arxiv.org/abs/2203.02108)
++ Online Federated Learning via Non-Stationary Detection and Adaptation amidst Concept Drift (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2211.12578.pdf)
 + **Better Generative Replay for Continual Federated Learning (ICLR 2023)** [[paper]](https://openreview.net/forum?id=cRxYWKiTan)
 + Federated Learning for Data Streams (Arxiv 2023) [[paper]](https://arxiv.org/abs/2301.01542)
 + FedKNOW: Federated Continual Learning with Signature Task Knowledge Integration at Edge (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2212.01738.pdf)
