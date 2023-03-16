@@ -9,9 +9,11 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 #### Pure Classification
 + Partitioned Variational Inference: A unified framework encompassing federated and continual learning (Arxiv 2018) [[paper]](https://arxiv.org/abs/1811.11206)
 + Federated and continual learning for classification tasks in a society of devices (Arxiv 2020) [[paper]](https://arxiv.org/abs/2006.07129)
++ A New Analysis Framework for Federated Learning on Time-Evolving Heterogeneous Data (FL-ICML2021) [[paper]](https://fl-icml.github.io/2021/papers/FL-ICML21_paper_47.pdf)
 + **Federated Continual Learning with Weighted Inter-client Transfer (ICML 2021)** [[paper]](https://proceedings.mlr.press/v139/yoon21b.html?ref=https://githubhelp.com) [[code]](https://github.com/wyjeong/FedWeIT)
 + **Federated Class-Incremental Learning (CVPR 2022)** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.pdf) [[code]](https://github.com/conditionWang/FCIL)
 + **Learn From Others and Be Yourself in Heterogeneous Federated Learning (CVPR 2022)** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Learn_From_Others_and_Be_Yourself_in_Heterogeneous_Federated_Learning_CVPR_2022_paper.html) [[code]](https://github.com/WenkeHuang/FCCL)
++ Towards Federated Learning on Time-Evolving Heterogeneous Data (Arxiv 2021) [[paper]](https://arxiv.org/pdf/2112.13246.pdf)
 + Concept drift detection and adaptation for federated and continual learning (Multimedia Tools and Applications 2021) [[paper]](https://link.springer.com/article/10.1007/s11042-021-11219-x)
 + Federated Reconnaissance: Efficient, Distributed, Class-Incremental Learning (NeurIPS 2021 Workshop) [[paper]](https://arxiv.org/abs/2109.00150) [[code]](https://github.com/ml4ai/fed-recon)
 + ODE: A Data Sampling Method for Practical Federated Learning with Streaming Data and Limited Buffer (Arxiv 2022) [[paper]](https://arxiv.org/abs/2209.00195)
@@ -31,6 +33,8 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + Federated probability memory recall for federated continual learning (Info Science 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025523001883?casa_token=Srn81YlRjF4AAAAA:Jw28ekpauxEeC4-kxJrzhRPpHV0dTJeInJ-s3mRxOi77YbXShvkg43119RHHjnO2qQ9wOSlRVyUx)
 + GradMA: A Gradient-Memory-based Accelerated Federated Learning with Alleviated Catastrophic Forgetting (Arxiv 2023) [[paper]](https://arxiv.org/abs/2302.14307)
 + Addressing Catastrophic Forgetting in Federated Class-Continual Learning (Arxiv 2023) [[paper]](https://arxiv.org/abs/2303.06937)
++ **Federated Learning under Distributed Concept Drift (AISTATS 2023)** [[paper]](https://arxiv.org/pdf/2206.00799.pdf)
++ 
 
 #### Advanced CV Tasks (object detection, semantic segmentation)
 + **FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space (CVPR 2021)** [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.html) [[code]](https://github.com/liuquande/FedDG-ELCFS)
@@ -41,7 +45,9 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + **FedSR: A Simple and Effective Domain Generalization Method for Federated Learning (NeurIPS 2022)** [[paper]](https://openreview.net/forum?id=mrt90D00aQX) [[code]](https://github.com/atuannguyen/FedSR)
 + Federated Domain Generalization for Image Recognition via Cross-Client Style Transfer (WACV 2023) [[paper]](https://openaccess.thecvf.com/content/WACV2023/html/Chen_Federated_Domain_Generalization_for_Image_Recognition_via_Cross-Client_Style_Transfer_WACV_2023_paper.html) [[code]](https://github.com/JeremyCJM/CCST)
 + **Federated Domain Generalization with Generalization Adjustment (CVPR 2023)**
++ **Test-Time Robust Personalization for Federated Learning (ICLR 2023)** [[paper]](https://arxiv.org/pdf/2205.10920.pdf) [[code]](https://github.com/LINs-lab/FedTHE)
 + PerAda: Parameter-Efficient and Generalizable Federated Learning Personalization with Guarantees (Arxiv 2023) [[paper]](https://arxiv.org/abs/2302.06637)
++ FedConceptEM: Robust Federated Learning Under Diverse Distribution Shifts (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2301.12379.pdf)
 
 
 
