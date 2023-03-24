@@ -52,7 +52,9 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 
 
 ### Natural Language Processing
++ Federated Learning Of Out-Of-Vocabulary Words (Arxiv 2019) [[paper]](https://arxiv.org/abs/1903.10635)
 + **Federated Continual Learning for Text Classification via Selective Inter-client Transfer (EMNLP Findings 2022)** [[paper]](https://arxiv.org/abs/2210.06101)
+
 
 ### Audio and IoT
 + A distillation-based approach integrating continual learning and federated learning for pervasive services (Arxiv 2021) [[paper]](https://arxiv.org/abs/2109.04197)
