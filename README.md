@@ -35,6 +35,10 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + GradMA: A Gradient-Memory-based Accelerated Federated Learning with Alleviated Catastrophic Forgetting (Arxiv 2023) [[paper]](https://arxiv.org/abs/2302.14307)
 + Addressing Catastrophic Forgetting in Federated Class-Continual Learning (Arxiv 2023) [[paper]](https://arxiv.org/abs/2303.06937)
 + **Federated Learning under Distributed Concept Drift (AISTATS 2023)** [[paper]](https://arxiv.org/pdf/2206.00799.pdf)
++ Asynchronous Federated Continual Learning (CVPR FedVision Workshop 2023) [[paper]](https://arxiv.org/abs/2304.03626)
++ Re-Weighted Softmax Cross-Entropy to Control Forgetting in Federated Learning (Arxiv 2023) [[paper]](https://arxiv.org/abs/2304.05260)
++ **Distributed Offline Policy Optimization Over Batch Data (AISTATS 2023)** [[paper]](https://proceedings.mlr.press/v206/shen23b.html)
++ CoDeC: Communication-Efficient Decentralized Continual Learning (Arxiv 2023) [[paper]](https://arxiv.org/abs/2303.15378)
 
 #### Advanced CV Tasks (object detection, semantic segmentation)
 + **FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space (CVPR 2021)** [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.html) [[code]](https://github.com/liuquande/FedDG-ELCFS)
@@ -67,6 +71,8 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + Federated Continual Learning through distillation in pervasive computing (SmartComp 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9821057?casa_token=qAwx-o_ga4gAAAAA:MFqUbWBzqkfJ79QWU5yMvPmvFoG_T-pzAVdPEABcEiciymal0kAy5Ie1BCowtHyELCCNOtGbSyk)
 + DILoCC: An approach for Distributed Incremental Learning across the Computing Continuum (SmartComp 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9556258?casa_token=uIv0gtgLWhEAAAAA:j592VhM8vYz0R__phIyBvnx5YQEtwrPAJiiZ16qu9nu2wu3jYr8xIfodzm5OpUn2NwwaPbYx8co)
 + **Cross-FCL: Toward a Cross-edge Federated Continual Learning Framework in Mobile Edge Computing Systems (TMC 2022)** [[paper]](https://ieeexplore.ieee.org/abstract/document/9960821?casa_token=1Ovr4510alIAAAAA:53TSbfLNHX8M5eh-2p65eXO2F7vbB4rAXIFAudCG92EAkPlFhecA5e0emL2r0gUBb5tvT9ePpoE)
++ Urban Traffic Forecasting using Federated and Continual Learning (CIoT 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10084875?casa_token=hXBpivr18bYAAAAA:dqqI7ezE5h_anlHEB5VSDsWwZy3bzPKLNm9QRHFSY7LF7_ep9HbbCpTpw7GZ4dkED9WjjRbc0Js)
++ ICMFed: An Incremental and Cost-Efficient Mechanism of Federated Meta-Learning for Driver Distraction Detection (Mathematics 2023) [[paper]](https://www.mdpi.com/2227-7390/11/8/1867)
 
 ### Security Relevant
 + GFCL: A GRU-based Federated Continual Learning Framework against Data Poisoning Attacks in IoV (Arxiv 2022) [[paper]](https://arxiv.org/abs/2204.11010)
