@@ -39,6 +39,8 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + Re-Weighted Softmax Cross-Entropy to Control Forgetting in Federated Learning (Arxiv 2023) [[paper]](https://arxiv.org/abs/2304.05260)
 + **Distributed Offline Policy Optimization Over Batch Data (AISTATS 2023)** [[paper]](https://proceedings.mlr.press/v206/shen23b.html)
 + CoDeC: Communication-Efficient Decentralized Continual Learning (Arxiv 2023) [[paper]](https://arxiv.org/abs/2303.15378)
++ Ensemble and continual federated learning for classification tasks (Machine Learning 2023) [[paper]](https://link.springer.com/article/10.1007/s10994-023-06330-z)
++ **To Store or Not? Online Data Selection for Federated Learning with Limited Storage (WWW 2023)** [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583426)
 
 #### Advanced CV Tasks (object detection, semantic segmentation)
 + **FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space (CVPR 2021)** [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.html) [[code]](https://github.com/liuquande/FedDG-ELCFS)
