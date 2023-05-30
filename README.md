@@ -46,11 +46,12 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + **FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space (CVPR 2021)** [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.html) [[code]](https://github.com/liuquande/FedDG-ELCFS)
 + **Federated Incremental Semantic Segmentation (CVPR 2023)** [paper] [[code]](https://github.com/JiahuaDong/FISS)
 
-#### Out-of-Distribution Learning
+#### Out-of-Distribution Learning (domain adaptation, domain generalization, out-of-distribution detection)
 + **Uncertainty-Aware Aggregation for Federated Open Set Domain Adaptation (TNNLS 2022)** [[paper]](https://ieeexplore.ieee.org/document/9931728)
 + **FedSR: A Simple and Effective Domain Generalization Method for Federated Learning (NeurIPS 2022)** [[paper]](https://openreview.net/forum?id=mrt90D00aQX) [[code]](https://github.com/atuannguyen/FedSR)
 + Federated Domain Generalization for Image Recognition via Cross-Client Style Transfer (WACV 2023) [[paper]](https://openaccess.thecvf.com/content/WACV2023/html/Chen_Federated_Domain_Generalization_for_Image_Recognition_via_Cross-Client_Style_Transfer_WACV_2023_paper.html) [[code]](https://github.com/JeremyCJM/CCST)
-+ **Federated Domain Generalization with Generalization Adjustment (CVPR 2023)**
++ **Federated Domain Generalization with Generalization Adjustment (CVPR 2023)** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Federated_Domain_Generalization_With_Generalization_Adjustment_CVPR_2023_paper.pdf) [[code]](https://github.com/MediaBrain-SJTU/FedDG-GA)
++ **Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection (ICLR 2023)** [[paper]](https://openreview.net/forum?id=mMNimwRb7Gr) [[code]](https://github.com/illidanlab/FOSTER)
 + **Test-Time Robust Personalization for Federated Learning (ICLR 2023)** [[paper]](https://arxiv.org/pdf/2205.10920.pdf) [[code]](https://github.com/LINs-lab/FedTHE)
 + PerAda: Parameter-Efficient and Generalizable Federated Learning Personalization with Guarantees (Arxiv 2023) [[paper]](https://arxiv.org/abs/2302.06637)
 + FedConceptEM: Robust Federated Learning Under Diverse Distribution Shifts (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2301.12379.pdf)
