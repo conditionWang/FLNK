@@ -97,6 +97,8 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (Arxiv 2023) [[paper]](https://arxiv.org/abs/2302.06637)
 + FedConceptEM: Robust Federated Learning Under Diverse Distribution Shifts 
   + (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2301.12379.pdf)
++ MEC-DA: Memory-Efficient Collaborative Domain Adaptation for Mobile Edge Devices
+  + (IEEE Transactions on Mobile Computing 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10144399?casa_token=Maob5d_6oe4AAAAA:DIFvUdy6hD5HL6KicYdwMt1jMBoo-NJ_J1gpYstTodVDKucbk5XousyqqXBukB9LL_qt3Y_R2W8)
 
 
 
@@ -105,6 +107,8 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (Arxiv 2019) [[paper]](https://arxiv.org/abs/1903.10635)
 + **Federated Continual Learning for Text Classification via Selective Inter-client Transfer** 
   + **(EMNLP Findings 2022)** [[paper]](https://arxiv.org/abs/2210.06101)
++ **Quantifying Catastrophic Forgetting in Continual Federated Learning**
+  + **(ICASSP 2023)** [[paper]](https://ieeexplore.ieee.org/abstract/document/10097140?casa_token=w10yvdklDzEAAAAA:Bn2W7xONHMDoOKccJxJ2jtYe0yphLEvWpupQg2fLOJjw8I0x6y_uD5JUO8o6bW_bsggroWOA6IU) 
 
 
 ## Audio and IoT
@@ -148,6 +152,8 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (Arxiv 2022) [[paper]](https://arxiv.org/abs/2206.13336)
 + Towards Lifelong Federated Learning in Autonomous Mobile Robots with Continuous Sim-to-Real Transfer 
   + (Arxiv 2022) [[paper]](https://arxiv.org/abs/2205.15496)
++ Performative Federated Learning: A Solution to Model-Dependent and Heterogeneous Distribution Shifts
+  + (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2305.05090.pdf)
 
 
 
