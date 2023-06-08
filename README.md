@@ -89,6 +89,8 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (WACV 2023) [[paper]](https://openaccess.thecvf.com/content/WACV2023/html/Chen_Federated_Domain_Generalization_for_Image_Recognition_via_Cross-Client_Style_Transfer_WACV_2023_paper.html) [[code]](https://github.com/JeremyCJM/CCST)
 + **Federated Domain Generalization with Generalization Adjustment** 
   + **(CVPR 2023)** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Federated_Domain_Generalization_With_Generalization_Adjustment_CVPR_2023_paper.pdf) [[code]](https://github.com/MediaBrain-SJTU/FedDG-GA)
++ **Rethinking Federated Learning with Domain Shift: A Prototype View**
+  + **(CVPR 2023)** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Rethinking_Federated_Learning_With_Domain_Shift_A_Prototype_View_CVPR_2023_paper.pdf) [[code]](https://github.com/WenkeHuang/RethinkFL)
 + **Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection** 
   + **(ICLR 2023)** [[paper]](https://openreview.net/forum?id=mMNimwRb7Gr) [[code]](https://github.com/illidanlab/FOSTER)
 + **Test-Time Robust Personalization for Federated Learning** 
