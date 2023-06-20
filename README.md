@@ -1,5 +1,5 @@
 # Dynamic Federated Learning
-This is all you need for a brand new but interesting topic -- dynamic federated learning (DFL), including research papers, datasets, tools, and you name it. Standard federated learning usually assumes that the data distribution, model structure, and participating clients of the overall framework are fixed to unchanged over time. But DFL explores research problems of training better models (global or personalized) when the aforementioned important elements of FL are dynamically changing. Relevant topics include heterogeneous federated learning, personalized federated learning, incremental learning, continual learning, domain adaptation and out of distribution generalization. We believe dynamic federated learning will be a practical mechanism that can really enable federated learning to be applied in the real world.
+This is all you need for a brand new but interesting topic -- dynamic federated learning (DFL), including research papers, datasets, tools, and you name it. Standard federated learning usually assumes that the data distribution, model structure, and participating clients of the overall framework are fixed to unchanged over time. But DFL explores research problems of training better models (global or personalized) when the aforementioned important elements of FL are dynamically changing. Relevant topics include heterogeneous federated learning, personalized federated learning, incremental learning, continual learning, domain adaptation, and out-of-distribution generalization. We believe dynamic federated learning will be a practical mechanism that can really enable federated learning to be applied in the real world.
 
 ## Computer Vision
 + Non-IID data and Continual Learning processes in Federated Learning: A long road ahead 
@@ -73,6 +73,13 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (Machine Learning 2023) [[paper]](https://link.springer.com/article/10.1007/s10994-023-06330-z)
 + **To Store or Not? Online Data Selection for Federated Learning with Limited Storage** 
   + **(WWW 2023)** [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583426)
++ Masked Autoencoders are Efficient Continual Federated Learners
+  + (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.03542.pdf)
++ Semi-supervised federated learning on evolving data streams
+  + (Information Sciences 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025523008204)
++ A federated learning-based approach to recognize subjects at a high risk of hypertension in a non-stationary scenario
+  + (Information Sciences 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025522014384)
+
 
 ### _Advanced CV Tasks (object detection, semantic segmentation)_
 + **FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space** 
@@ -138,6 +145,8 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (CIoT 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10084875?casa_token=hXBpivr18bYAAAAA:dqqI7ezE5h_anlHEB5VSDsWwZy3bzPKLNm9QRHFSY7LF7_ep9HbbCpTpw7GZ4dkED9WjjRbc0Js)
 + ICMFed: An Incremental and Cost-Efficient Mechanism of Federated Meta-Learning for Driver Distraction Detection 
   + (Mathematics 2023) [[paper]](https://www.mdpi.com/2227-7390/11/8/1867)
++ Personalized Federated Continual Learning for Task-incremental Biometrics
+  + (IEEE Internet of Things Journal 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10148063)
 
 ## Security Relevant
 + GFCL: A GRU-based Federated Continual Learning Framework against Data Poisoning Attacks in IoV 
@@ -156,6 +165,8 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (Arxiv 2022) [[paper]](https://arxiv.org/abs/2205.15496)
 + Performative Federated Learning: A Solution to Model-Dependent and Heterogeneous Distribution Shifts
   + (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2305.05090.pdf)
++ Concept Drift Detection and Adaptation for Robotics and Mobile Devices in Federated and Continual Settings
+  + (Some Workshop 2023) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-62579-5_6)
 
 
 
