@@ -57,7 +57,7 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (Info Science 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025523001883?casa_token=Srn81YlRjF4AAAAA:Jw28ekpauxEeC4-kxJrzhRPpHV0dTJeInJ-s3mRxOi77YbXShvkg43119RHHjnO2qQ9wOSlRVyUx)
 + GradMA: A Gradient-Memory-based Accelerated Federated Learning with Alleviated Catastrophic Forgetting 
   + (Arxiv 2023) [[paper]](https://arxiv.org/abs/2302.14307)
-+ Addressing Catastrophic Forgetting in Federated Class-Continual Learning 
++ **Addressing Catastrophic Forgetting in Federated Class-Continual Learning**
   + **(ICCV 2023)** [[paper]](https://arxiv.org/abs/2303.06937)
 + **Federated Learning under Distributed Concept Drift** 
   + **(AISTATS 2023)** [[paper]](https://arxiv.org/pdf/2206.00799.pdf)
@@ -83,7 +83,7 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (FL-ICML 2023) [[paper]](https://arxiv.org/abs/2307.04869)
 + Don't Memorize; Mimic The Past: Federated Class Incremental Learning Without Episodic Memory
   + (FL-ICML 2023) [[paper]](https://arxiv.org/abs/2307.00497)
-+ FedET: A Communication-Efficient Federated Class-Incremental Learning Framework Based on Enhanced Transformer
++ **FedET: A Communication-Efficient Federated Class-Incremental Learning Framework Based on Enhanced Transformer**
   + **(IJCAI 2023)** [[paper]](https://arxiv.org/abs/2306.15347)
 
 
