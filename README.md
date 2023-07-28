@@ -85,6 +85,8 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (FL-ICML 2023) [[paper]](https://arxiv.org/abs/2307.00497)
 + **FedET: A Communication-Efficient Federated Class-Incremental Learning Framework Based on Enhanced Transformer**
   + **(IJCAI 2023)** [[paper]](https://arxiv.org/abs/2306.15347)
++ Ensemble and continual federated learning for classification tasks
+  + (2023) [[paper]](https://minerva.usc.es/xmlui/handle/10347/30866)
 
 
 ### _Advanced CV Tasks (object detection, semantic segmentation)_
