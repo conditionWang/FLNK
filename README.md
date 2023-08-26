@@ -87,6 +87,8 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + **(IJCAI 2023)** [[paper]](https://arxiv.org/abs/2306.15347)
 + Ensemble and continual federated learning for classification tasks
   + (2023) [[paper]](https://minerva.usc.es/xmlui/handle/10347/30866)
++ Federated Multi-Phase Curriculum Learning to Synchronously Correlate User Heterogeneity
+  + (IEEE Transactions on Artificial Intelligence 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10227551)
 
 
 ### _Advanced CV Tasks (object detection, semantic segmentation)_
@@ -157,6 +159,10 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (Mathematics 2023) [[paper]](https://www.mdpi.com/2227-7390/11/8/1867)
 + Personalized Federated Continual Learning for Task-incremental Biometrics
   + (IEEE Internet of Things Journal 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10148063)
++ Continual adaptation of federated reservoirs in pervasive environments
+  + (Neurocomputing 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231223007610)
++ Continual Federated Learning For Network Anomaly Detection in 5G Open-RAN
+  + (2023) [[paper]](http://jultika.oulu.fi/files/nbnfioulu-202307042837.pdf)
 
 ## Security Relevant
 + GFCL: A GRU-based Federated Continual Learning Framework against Data Poisoning Attacks in IoV 
