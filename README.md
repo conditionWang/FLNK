@@ -87,6 +87,11 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + **(IJCAI 2023)** [[paper]](https://arxiv.org/abs/2306.15347)
 + Federated Multi-Phase Curriculum Learning to Synchronously Correlate User Heterogeneity
   + (IEEE Transactions on Artificial Intelligence 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10227551)
++ Federated Class-Incremental Learning with Prompting
+  + (Arxiv 2023) [[paper]](https://arxiv.org/abs/2310.08948)
++ FedRCIL: Federated Knowledge Distillation for Representation based Contrastive Incremental Learning
+  + (ICCV Workshop 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023W/VCL/html/Psaltis_FedRCIL_Federated_Knowledge_Distillation_for_Representation_based_Contrastive_Incremental_Learning_ICCVW_2023_paper.html)
+
 
 
 ### _Advanced CV Tasks (object detection, semantic segmentation)_
@@ -128,6 +133,8 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + **(ICASSP 2023)** [[paper]](https://ieeexplore.ieee.org/abstract/document/10097140?casa_token=w10yvdklDzEAAAAA:Bn2W7xONHMDoOKccJxJ2jtYe0yphLEvWpupQg2fLOJjw8I0x6y_uD5JUO8o6bW_bsggroWOA6IU)
 + FedET: A Communication-Efficient Federated Class-Incremental Learning Framework Based on Enhanced Transformer
   + (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.15347.pdf)
++ Coordinated Replay Sample Selection for Continual Federated Learning
+  + **(EMNLP 2023)** [[paper]](https://arxiv.org/pdf/2310.15054.pdf)
 
 
 ## Audio and IoT
@@ -169,6 +176,8 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (Arxiv 2022) [[paper]](https://arxiv.org/abs/2205.11736)
 + Federated Continual Learning with Differentially Private Data Sharing 
   + (NeurIPS 2022 Workshop) [[paper]](https://openreview.net/forum?id=b7vu9ukdpdL)
++ FL-IIDS: A novel federated learning-based incremental intrusion detection system
+  + (Future Generation Computer Systems 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0167739X23003503?casa_token=0sLsyxT8Vy0AAAAA:9dZIKeJlexvlOFK5aBQ8ym4se3xO6FdK9mP0COFennIxvcWs909vntH1rHAwa5_ePe0WS_Rl4aA)
 
 ## Other Topics
 + Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing 
@@ -181,6 +190,10 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2305.05090.pdf)
 + Concept Drift Detection and Adaptation for Robotics and Mobile Devices in Federated and Continual Settings
   + (Some Workshop 2023) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-62579-5_6)
++ Incremental learning and federated learning for heterogeneous medical image analysis
+  + (Master Thesis 2023) [[paper]](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0437226)
++ Continual adaptation of federated reservoirs in pervasive environments
+  + (Neurocomputing 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231223007610?casa_token=Lv139KCqmjoAAAAA:cOSOaY88N8aO9Cv2KP3FTIgIung7A3hyXh-VuwZLKOjwDZmOf2x721ITsQD-77n53K3BljBvM5k)
 
 
 
