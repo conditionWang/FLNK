@@ -133,7 +133,7 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + **(ICASSP 2023)** [[paper]](https://ieeexplore.ieee.org/abstract/document/10097140?casa_token=w10yvdklDzEAAAAA:Bn2W7xONHMDoOKccJxJ2jtYe0yphLEvWpupQg2fLOJjw8I0x6y_uD5JUO8o6bW_bsggroWOA6IU)
 + FedET: A Communication-Efficient Federated Class-Incremental Learning Framework Based on Enhanced Transformer
   + (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.15347.pdf)
-+ Coordinated Replay Sample Selection for Continual Federated Learning
++ **Coordinated Replay Sample Selection for Continual Federated Learning**
   + **(EMNLP 2023)** [[paper]](https://arxiv.org/pdf/2310.15054.pdf)
 
 
