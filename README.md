@@ -103,7 +103,7 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + Federated Class-Incremental Learning with Prompting
   + (Arxiv 2023) [[paper]](https://arxiv.org/abs/2310.08948)
 + FedRCIL: Federated Knowledge Distillation for Representation based Contrastive Incremental Learning
-  + (ICCV Workshop 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023W/VCL/html/Psaltis_FedRCIL_Federated_Knowledge_Distillation_for_Representation_based_Contrastive_Incremental_Learning_ICCVW_2023_paper.html)
+  + (ICCV Workshop 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023W/VCL/html/Psaltis_FedRCIL_Federated_Knowledge_Distillation_for_Representation_based_Contrastive_Incremental_Learning_ICCVW_2023_paper.html) [[code]](https://github.com/chatzikon/FedRCIL/tree/main)
 + Distributed Continual Learning with CoCoA in High-dimensional Linear Regression
   + (Arxiv 2023) [[paper]](https://arxiv.org/abs/2312.01795)
 + Concept Matching: Clustering-based Federated Continual Learning
