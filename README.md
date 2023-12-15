@@ -1,9 +1,19 @@
 # Dynamic Federated Learning
-This is all you need for a brand new but interesting topic -- dynamic federated learning (DFL), including research papers, datasets, tools, and you name it. Standard federated learning usually assumes that the data distribution, model structure, and participating clients of the overall framework are fixed to unchanged over time. But DFL explores research problems of training better models (global or personalized) when the aforementioned important elements of FL are dynamically changing. Relevant topics include heterogeneous federated learning, personalized federated learning, incremental learning, continual learning, domain adaptation, and out-of-distribution generalization. We believe dynamic federated learning will be a practical mechanism that can really enable federated learning to be applied in the real world.
+This is all you need for a brand new but interesting topic -- dynamic federated learning (DFL), including research papers, datasets, tools, and you name it. Standard federated learning usually assumes that the data distribution, model structure, and participating clients of the overall framework are fixed to unchanged over time. However, DFL explores research problems of training better models (global or personalized) when the aforementioned important elements of FL are dynamically changing. Relevant topics include heterogeneous federated learning, personalized federated learning, incremental learning, continual learning, domain adaptation, and out-of-distribution generalization. We believe dynamic federated learning will be a practical mechanism that can really enable federated learning to be applied in the real world.
+
+- [Computer Vision](#computer-vision)
+  - [Pure Classification](#pure-classification)
+  - [Advanced CV Tasks (object detection, semantic segmentation)](#advanced-cv-tasks)
+
+
+<a name="computer-vision" />
 
 ## Computer Vision
 + Non-IID data and Continual Learning processes in Federated Learning: A long road ahead 
   + (Survey, Information Fusion 2022) [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253522000884)
+ 
+<a name="pure-classification" />
+
 ### _Pure Classification_
 + Partitioned Variational Inference: A unified framework encompassing federated and continual learning 
   + (Arxiv 2018) [[paper]](https://arxiv.org/abs/1811.11206)
@@ -39,8 +49,6 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (IEEE Transactions on Cybernetics 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9477571?casa_token=m7gcGPrMbPsAAAAA:5GGy8hdewYfNFYj6UMTFGgiyzIa9g9VkyTts8CoeCnfikxULR0kML733vV-K6InUQZ1_CDPPefw)
 + Addressing Client Drift in Federated Continual Learning with Adaptive Optimization 
   + (Preprint 2022) [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4188586)
-+ Towards Federated Learning on Time-Evolving Heterogeneous Data 
-  + (Arxiv 2022) [[paper]](https://arxiv.org/abs/2112.13246)
 + Continual Horizontal Federated Learning for Heterogeneous Data 
   + (Arxiv 2022) [[paper]](https://arxiv.org/abs/2203.02108)
 + Online Federated Learning via Non-Stationary Detection and Adaptation amidst Concept Drift 
@@ -92,7 +100,7 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + FedRCIL: Federated Knowledge Distillation for Representation based Contrastive Incremental Learning
   + (ICCV Workshop 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023W/VCL/html/Psaltis_FedRCIL_Federated_Knowledge_Distillation_for_Representation_based_Contrastive_Incremental_Learning_ICCVW_2023_paper.html)
 
-
+<a name="advanced-cv-tasks" />
 
 ### _Advanced CV Tasks (object detection, semantic segmentation)_
 + **FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space** 
