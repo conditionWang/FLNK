@@ -4,6 +4,11 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 - [Computer Vision](#computer-vision)
   - [Pure Classification](#pure-classification)
   - [Advanced CV Tasks (object detection, semantic segmentation)](#advanced-cv-tasks)
+  - [Out-of-Distribution Learning (domain adaptation, domain generalization, out-of-distribution detection)](#ood-learning)
+- [Natural Language Processing](#nlp)
+- [Audio and IoT](#iot)
+- [Security Relevant](#security)
+- [Other Topics](#other)
 
 
 <a name="computer-vision" />
@@ -99,6 +104,30 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (Arxiv 2023) [[paper]](https://arxiv.org/abs/2310.08948)
 + FedRCIL: Federated Knowledge Distillation for Representation based Contrastive Incremental Learning
   + (ICCV Workshop 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023W/VCL/html/Psaltis_FedRCIL_Federated_Knowledge_Distillation_for_Representation_based_Contrastive_Incremental_Learning_ICCVW_2023_paper.html)
++ Distributed Continual Learning with CoCoA in High-dimensional Linear Regression
+  + (Arxiv 2023) [[paper]](https://arxiv.org/abs/2312.01795)
++ Concept Matching: Clustering-based Federated Continual Learning
+  + (Arxiv 2023) [[paper]](https://arxiv.org/abs/2311.06921)
++ Spatial-Temporal Federated Learning for Lifelong Person Re-identification on Distributed Edges
+  + (TCSVT 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10142016?casa_token=Ii8P8kcPlY4AAAAA:MY2XgwufZ-bXHTyAv1X8uPjamUxtVYSRkDi80NIBVizQRhgu80UFdUfznGvvReZFpRRFdYfB-zo)
++ HePCo: Data-Free Heterogeneous Prompt Consolidation for Continual Federated Learning
+  + (Arxiv 2023) [[paper]](https://arxiv.org/abs/2306.09970)
++ Decentralized Deep Learning under Distributed Concept Drift: A Novel Approach to Dealing with Changes in Data Distributions Over Clients and Over Time
+  + (MS Thesis) [[paper]](https://odr.chalmers.se/items/3c39a17d-9d4f-45d9-8745-157711bcb100)
++ **A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks**
+  + **(NeurIPS 2023)** [[paper]](https://arxiv.org/pdf/2311.07784.pdf)
++ Accurate Forgetting for Heterogeneous Federated Continual Learning
+  + (ICLR 2024 submission) [[paper]](https://openreview.net/forum?id=ShQrnAsbPI)
++ Variational Federated Continual Learning
+  + (ICLR 2024 submission) [[paper]](https://openreview.net/forum?id=lzt60v45V4)
++ Towards Out-of-federation Generalization in Federated Learning
+  + (ICLR 2024 submission) [[paper]](https://openreview.net/forum?id=70PPJo3DwI)
++ FedGP: Buffer-based Gradient Projection for Continual Federated Learning
+  + (ICLR 2024 submission) [[paper]](https://openreview.net/forum?id=Xi7UoErFRt)
++ Traceable Federated Continual Learning
+  + (ICLR 2024 submission) [[paper]](https://openreview.net/forum?id=OkZ5UrVpo6)
++ Prototypes-Injected Prompt for Federated Class Incremental Learning
+  + (ICLR 2024 submission) [[paper]](https://openreview.net/forum?id=cwN69teRIW)
 
 <a name="advanced-cv-tasks" />
 
@@ -107,6 +136,8 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + **(CVPR 2021)** [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.html) [[code]](https://github.com/liuquande/FedDG-ELCFS)
 + **Federated Incremental Semantic Segmentation** 
   + **(CVPR 2023)** [[paper]](https://arxiv.org/abs/2304.04620) [[code]](https://github.com/JiahuaDong/FISS)
+
+<a name="ood-learning" />
 
 ### _Out-of-Distribution Learning (domain adaptation, domain generalization, out-of-distribution detection)_
 + Uncertainty-Aware Aggregation for Federated Open Set Domain Adaptation 
@@ -129,8 +160,22 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2301.12379.pdf)
 + MEC-DA: Memory-Efficient Collaborative Domain Adaptation for Mobile Edge Devices
   + (IEEE Transactions on Mobile Computing 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10144399?casa_token=Maob5d_6oe4AAAAA:DIFvUdy6hD5HL6KicYdwMt1jMBoo-NJ_J1gpYstTodVDKucbk5XousyqqXBukB9LL_qt3Y_R2W8)
++ FedRC: Tackling Diverse Distribution Shifts Challenge in Federated Learning by Robust Clustering
+  + (ICLR 2024 submission) [[paper]](https://openreview.net/forum?id=6FAH0SgQzO)
++ A Lightweight Method for Tackling Unknown Participation Statistics in Federated Averaging
+  + (ICLR 2024 submission) [[paper]](https://openreview.net/forum?id=ZKEuFKfCKA)
++ Benchmarking Algorithms for Federated Domain Generalization
+  + (ICLR 2024 submission) [[paper]](https://openreview.net/forum?id=wprSv7ichW)
++ Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting
+  + (ICLR 2024 submission) [[paper]](https://openreview.net/forum?id=6J3ehSUrMU)
++ FedNovel: Federated Novel Class Learning
+  + (ICLR 2024 submission) [[paper]](https://openreview.net/forum?id=Unz9zYdjTt)
++ Federated Generalization via Information-Theoretic Distribution Diversification
+  + (ICLR 2024 submission) [[paper]](https://openreview.net/forum?id=VRCh74Liu9)
++ FedOD: Federated Outlier Detection via Neural Approximation
+  + (ICLR 2024 submission) [[paper]](https://openreview.net/forum?id=BhxsjonZ0z)
 
-
+<a name="nlp" />
 
 ## Natural Language Processing
 + Federated Learning Of Out-Of-Vocabulary Words 
@@ -144,6 +189,7 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
 + **Coordinated Replay Sample Selection for Continual Federated Learning**
   + **(EMNLP 2023)** [[paper]](https://arxiv.org/pdf/2310.15054.pdf)
 
+<a name="iot" />
 
 ## Audio and IoT
 + A distillation-based approach integrating continual learning and federated learning for pervasive services 
@@ -176,6 +222,10 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (Neurocomputing 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231223007610)
 + Continual Federated Learning For Network Anomaly Detection in 5G Open-RAN
   + (2023) [[paper]](http://jultika.oulu.fi/files/nbnfioulu-202307042837.pdf)
++ Age-Aware Data Selection and Aggregator Placement for Timely Federated Continual Learning in Mobile Edge Computing
+  + (IEEE Transactions on Computers 2023) [[paper]](https://www.computer.org/csdl/journal/tc/5555/01/10324368/1SgbRaDs67C)
+
+<a name="security" />
 
 ## Security Relevant
 + GFCL: A GRU-based Federated Continual Learning Framework against Data Poisoning Attacks in IoV 
@@ -186,6 +236,10 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (NeurIPS 2022 Workshop) [[paper]](https://openreview.net/forum?id=b7vu9ukdpdL)
 + FL-IIDS: A novel federated learning-based incremental intrusion detection system
   + (Future Generation Computer Systems 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0167739X23003503?casa_token=0sLsyxT8Vy0AAAAA:9dZIKeJlexvlOFK5aBQ8ym4se3xO6FdK9mP0COFennIxvcWs909vntH1rHAwa5_ePe0WS_Rl4aA)
++ POSTER: Advancing Federated Edge Computing with Continual Learning for Secure and Efficient Performance
+  + (ANCS 2023) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-41181-6_40)
+
+<a name="other" />
 
 ## Other Topics
 + Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing 
@@ -202,6 +256,8 @@ This is all you need for a brand new but interesting topic -- dynamic federated 
   + (Master Thesis 2023) [[paper]](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0437226)
 + Continual adaptation of federated reservoirs in pervasive environments
   + (Neurocomputing 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231223007610?casa_token=Lv139KCqmjoAAAAA:cOSOaY88N8aO9Cv2KP3FTIgIung7A3hyXh-VuwZLKOjwDZmOf2x721ITsQD-77n53K3BljBvM5k)
++ Peer-to-Peer Federated Continual Learning for Naturalistic Driving Action Recognition
+  + (CVPR workshop 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Yuan_Peer-to-Peer_Federated_Continual_Learning_for_Naturalistic_Driving_Action_Recognition_CVPRW_2023_paper.pdf)
 
 
 
