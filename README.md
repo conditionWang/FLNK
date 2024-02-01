@@ -1,4 +1,4 @@
-# Dynamic Federated Learning
+# Federated Learning with New Knowledge
 This is all you need for a brand new but interesting topic -- dynamic federated learning (DFL), including research papers, datasets, tools, and you name it. Standard federated learning usually assumes that the data distribution, model structure, and participating clients of the overall framework are fixed to unchanged over time. However, DFL explores research problems of training better models (global or personalized) when the aforementioned important elements of FL are dynamically changing. Relevant topics include heterogeneous federated learning, personalized federated learning, incremental learning, continual learning, domain adaptation, and out-of-distribution generalization. We believe dynamic federated learning will be a practical mechanism that can really enable federated learning to be applied in the real world.
 
 - [Computer Vision](#computer-vision)
