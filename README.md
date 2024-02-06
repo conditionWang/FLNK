@@ -7,6 +7,13 @@ Overview of an FL system with new knowledge from different sources. Different ty
 
 ## **Taxonomy**
 
+New Features
+
+
+New Tasks 
+
+
+New Tasks with New Features
 - [Computer Vision](#computer-vision)
   - [Pure Classification](#pure-classification)
   - [Advanced CV Tasks (object detection, semantic segmentation)](#advanced-cv-tasks)
@@ -15,6 +22,10 @@ Overview of an FL system with new knowledge from different sources. Different ty
 - [Audio and IoT](#iot)
 - [Security Relevant](#security)
 - [Other Topics](#other)
+
+New Models
+
+New Algorithms
 
 
 <a name="computer-vision" />
