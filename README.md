@@ -3,6 +3,10 @@ This is all you need for a brand new but quite important topic -- Federated Lear
 
 ![overview](FLNK_overview.png)
 
+Overview of an FL system with new knowledge from different sources. Different types of clients encounter new features and tasks over time, which reflect new demands for FL systems, e.g., client $C_{k_2}$ needs to deal with the night scenes and conduct segmentation when snowing, and client $C_{k_3}$ joins FL with the need to handle night scenes and deraining when raining. From a global view, new more advanced models with better architecture (Transformers) and larger sizes (GPT 4) are also needed to incorporate. Besides, new algorithms with better performance (Scaffold) and security guarantees (SecAgg) should be continuously employed in FL as well.
+
+## **Taxonomy**
+
 - [Computer Vision](#computer-vision)
   - [Pure Classification](#pure-classification)
   - [Advanced CV Tasks (object detection, semantic segmentation)](#advanced-cv-tasks)
