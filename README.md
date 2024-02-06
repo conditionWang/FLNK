@@ -1,6 +1,8 @@
 # Federated Learning with New Knowledge
 This is all you need for a brand new but quite important topic -- Federated Learning with New Knowledge, including research papers, datasets, tools, and you name it. Federated Learning (FL) is a privacy-preserving distributed learning approach that is rapidly developing in an era where privacy protection is increasingly valued. It is this rapid development trend, along with the continuous emergence of new demands for FL in the real world, that prompts us to focus on a very important problem: Federated Learning with New Knowledge. The primary challenge here is to effectively incorporate various new knowledge into existing FL systems and evolve these systems to reduce costs, extend their lifespan, and facilitate sustainable development. In this work, we systematically define the main sources of new knowledge in FL, including new features, tasks, models, and algorithms. For each source, we thoroughly analyze and discuss how to incorporate new knowledge into existing FL systems and examine the impact of the form and timing of new knowledge arrival on the incorporation process. Furthermore, we comprehensively discuss the potential future directions for FL with new knowledge, considering a variety of factors such as scenario setups, efficiency, and security. For more detailed information, please refer to our survey paper [Federated Learning with New Knowledge: Fundamentals, Advances, and Futures](https://arxiv.org/pdf/2402.02268.pdf).
 
+![overview](FLNK_overview.png)
+
 - [Computer Vision](#computer-vision)
   - [Pure Classification](#pure-classification)
   - [Advanced CV Tasks (object detection, semantic segmentation)](#advanced-cv-tasks)
