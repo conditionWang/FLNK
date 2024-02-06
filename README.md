@@ -9,8 +9,17 @@ Overview of an FL system with new knowledge from different sources. Different ty
 
 New Features
 
+Federated Domain Generalization
+
+Federated Out-of-Distribution Detection
+
+Federated Domain Adaptation
 
 New Tasks 
+
+Task-personalized Federated Learning
+
+Self-supervised Federated Learning
 
 
 New Tasks with New Features
@@ -24,6 +33,7 @@ New Tasks with New Features
 - [Other Topics](#other)
 
 New Models
+
 
 New Algorithms
 
