@@ -287,7 +287,17 @@ New Algorithms
   + (CVPR workshop 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Yuan_Peer-to-Peer_Federated_Continual_Learning_for_Naturalistic_Driving_Action_Recognition_CVPRW_2023_paper.pdf)
 
 
+## Citation
 
+If you find our survey helpful for your research and study, please consider citing our paper.
+```
+@inproceedings{Wang2024FederatedLW,
+  title={Federated Learning with New Knowledge: Fundamentals, Advances, and Futures},
+  author={Lixu Wang and Yang Zhao and Jiahua Dong and Ating Yin and Qinbin Li and Xiao Wang and Dusit Tao Niyato and Qi Zhu},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:267412120}
+}
+```
 
 
 
